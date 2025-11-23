@@ -36,6 +36,9 @@ We are currently **organizing and cleaning** the code before making it fully ava
 
 Stay tuned for updates, and feel free to ⭐ the repository for notifications!  
 
+## 🧪 Downstream Predictions
+
+For the Cerebral Palsy prediction task, please refer to [MAM](https://github.com/qiang-Blazer/MAM) for the network training and testing.
 
 ## 📄 Acknowledgement
 Some code refers to the following repositories:
