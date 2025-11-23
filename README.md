@@ -42,6 +42,7 @@ Some code refers to the following repositories:
 
 - [HRNet](https://github.com/HRNet/HigherHRNet-Human-Pose-Estimation)
 - [HybrIK](https://github.com/jeffffffli/HybrIK)
+- [MAM](https://github.com/qiang-Blazer/MAM)
 
 
 Thank the authors for releasing their codes.
